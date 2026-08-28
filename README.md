@@ -8,11 +8,13 @@
 
 ## 下载
 
-| 平台 | 说明 |
-|------|------|
-| Windows 10 / 11 | 前往 [Releases 发布页](../../releases) 下载 `FileSearcher.exe`，双击即可运行 |
+| 平台 | 版本 | 下载 |
+|------|------|------|
+| Windows 10 / 11 | v2.0.0 | [FileSearcher.exe](https://github.com/kalun1031-dev/FileSearcher/releases/download/v2.0.0/FileSearcher.exe)（42MB，单文件绿色版） |
 
-> 单文件绿色版，无需安装。首次启动会自动建立全盘索引（约几十秒），之后搜索毫秒级响应。索引缓存在 `%APPDATA%\FileSearcher\`，删除该文件夹即彻底卸载。
+全部版本见 [Releases 发布页](../../releases)。
+
+> 下载后双击即可运行，无需安装 Python。首次启动会自动建立全盘索引（约几十秒），之后搜索毫秒级响应。索引缓存在 `%APPDATA%\FileSearcher\`，删除该文件夹即彻底卸载。
 
 ## 功能特性
 
