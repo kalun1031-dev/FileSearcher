@@ -1,0 +1,19 @@
+# 忽略 Python 构建产物
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# PyInstaller 打包输出（发布走 GitHub Release，不入库）
+FileSearcher/
+release/
+
+# 本机数据
+*.db
+*.log
+.DS_Store
+Thumbs.db
+
+# 与本项目无关的个人文件夹
+pc_opt_backup_*/
